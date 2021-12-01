@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{85c1f091-67a8-4213-a3c3-6531a705cd72}">
+		<property name="assetPath">
+			<value>shoot5.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.26697916666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{637ec854-148c-49f3-b2d3-12eefcba1a60}</destination>
+		</relationship>
+	</object>
+</objects>

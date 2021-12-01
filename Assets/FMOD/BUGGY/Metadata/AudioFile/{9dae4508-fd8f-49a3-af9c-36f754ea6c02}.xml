@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9dae4508-fd8f-49a3-af9c-36f754ea6c02}">
+		<property name="assetPath">
+			<value>stab2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.32847916666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{637ec854-148c-49f3-b2d3-12eefcba1a60}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{a375b56e-8c54-428a-a908-9d22925a3ade}">
+		<property name="assetPath">
+			<value>static bugs_6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.3866666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{637ec854-148c-49f3-b2d3-12eefcba1a60}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{f7480cc6-f26c-414b-90c5-4e6a12fc57ca}">
+		<property name="assetPath">
+			<value>AVA - Instinct - Short Hit - Snare Bulb.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7288333333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{637ec854-148c-49f3-b2d3-12eefcba1a60}</destination>
+		</relationship>
+	</object>
+</objects>

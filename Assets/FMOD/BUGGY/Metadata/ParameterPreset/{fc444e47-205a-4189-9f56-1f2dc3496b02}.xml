@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{fc444e47-205a-4189-9f56-1f2dc3496b02}">
+		<property name="name">
+			<value>Combat Trigger</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fc87eb39-8ef6-4960-82e4-54a40fa73a61}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4bcf8234-3e5e-4674-950e-7db55fa3c5f7}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4bcf8234-3e5e-4674-950e-7db55fa3c5f7}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1.2999999523162842</value>
+		</property>
+	</object>
+</objects>
